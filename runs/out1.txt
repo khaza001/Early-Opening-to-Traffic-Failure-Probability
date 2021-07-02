@@ -1,0 +1,2 @@
+   0.010,   Probability to fail after     3 days,
+  Initial strength =    267.8964      psi

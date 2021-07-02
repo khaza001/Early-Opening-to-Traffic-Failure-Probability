@@ -1,0 +1,16 @@
+7  ,thickness
+1000,100,3  ,number of trucks, number of runs, number of days
+0.000005  ,COTE
+0.15  ,porPCC
+15  ,jtSpace
+70  ,shoulder LTE
+-10  ,built-in curling
+7  ,base thickness
+40000  ,base elastic modulus, psi
+250  ,subgrade modulus, psi/in
+0.25,0.075,0.001  ,MR COV model
+0.03  ,Hpcc COV 
+5  ,construction month
+650  ,initial maturity
+1
+175.66, 734.03  ,maturity model coefficients
