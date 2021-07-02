@@ -1,1 +1,1 @@
-# Riggid
+# PittRigid
